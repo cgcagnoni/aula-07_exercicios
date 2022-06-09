@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoRealDolar", "ConversaoRealDolar\ConversaoRealDolar.csproj", "{AA08C6A3-B032-41CD-8BFF-04B6F7C85C03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoRealDolar", "ConversaoRealDolar\ConversaoRealDolar.csproj", "{AA08C6A3-B032-41CD-8BFF-04B6F7C85C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC", "IMC\IMC.csproj", "{30443C53-0D9C-4394-BAC3-DD54542B3524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AA08C6A3-B032-41CD-8BFF-04B6F7C85C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA08C6A3-B032-41CD-8BFF-04B6F7C85C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA08C6A3-B032-41CD-8BFF-04B6F7C85C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30443C53-0D9C-4394-BAC3-DD54542B3524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30443C53-0D9C-4394-BAC3-DD54542B3524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30443C53-0D9C-4394-BAC3-DD54542B3524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30443C53-0D9C-4394-BAC3-DD54542B3524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
